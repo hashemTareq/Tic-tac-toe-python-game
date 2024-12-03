@@ -1,5 +1,6 @@
 # Tic-tac-toe-python-game
-This is Tic tac toe python console game
+This is Tic tac toe python console game.
+
 This game makes you how can you think out of the box.
 Here the steps of make this game:
 1) How display the grid of the game.
